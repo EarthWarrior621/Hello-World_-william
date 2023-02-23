@@ -1,0 +1,13 @@
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\bin\Debug\netcoreapp3.1\Hello World_ william.exe
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\bin\Debug\netcoreapp3.1\Hello World_ william.deps.json
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\bin\Debug\netcoreapp3.1\Hello World_ william.runtimeconfig.json
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\bin\Debug\netcoreapp3.1\Hello World_ william.runtimeconfig.dev.json
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\bin\Debug\netcoreapp3.1\Hello World_ william.dll
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\bin\Debug\netcoreapp3.1\Hello World_ william.pdb
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\obj\Debug\netcoreapp3.1\Hello World_ william.csproj.AssemblyReference.cache
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\obj\Debug\netcoreapp3.1\Hello World_ william.AssemblyInfoInputs.cache
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\obj\Debug\netcoreapp3.1\Hello World_ william.AssemblyInfo.cs
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\obj\Debug\netcoreapp3.1\Hello World_ william.csproj.CoreCompileInputs.cache
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\obj\Debug\netcoreapp3.1\Hello World_ william.dll
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\obj\Debug\netcoreapp3.1\Hello World_ william.pdb
+C:\Users\william.garcia\source\repos\Hello World_ william\Hello World_ william\obj\Debug\netcoreapp3.1\Hello World_ william.genruntimeconfig.cache
